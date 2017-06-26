@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    background-color: grey;
+    padding: 120px;
+    
+    align-items: center;
+}
+
+#ip1{
+    align-content: center;
+    left: 120 px;
+}
+
+.btn{
+    align-self: center;
+    background-color: navajowhite;
+}
+
+.results
+{
+    background-color: burlywood;
+    border: 20px border-style black;
+    border-radius: 130 px;
+}
